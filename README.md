@@ -10,7 +10,7 @@ To install FireHawk on Termux, follow these steps:
 
    ```
 pkg install git python
-git clone https://github.com/iamunixtz/FireHawk.git
+git clone https://github.com/R4GN4R0K-SEC/FireHawk.git
 cd FireHawk
 pip install -r requirements.txt
    ```
@@ -18,12 +18,12 @@ pip install -r requirements.txt
 ### Kali Linux / macOS
 ```
 sudo apt-get install git python3
-git clone https://github.com/iamunixtz/FireHawk.git
+git clone https://github.com/R4GN4R0K-SEC/FireHawk.git
 cd FireHawk
 pip3 install -r requirements.txt
    ```
 ### POc
-![Firehawk](https://github.com/iamunixtz/FireHawk/raw/main/Firehawk.jpg)
+![Firehawk](https://github.com/R4GN4R0K-SEC/FireHawk/raw/main/Firehawk.jpg)
 
 ## Usage
 - `-u URL, --url URL`: Specify the target Firebase URL.
